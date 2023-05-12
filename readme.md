@@ -1,16 +1,10 @@
-## Holder PCB for the Elite-C
+## Holder PCB for nice!nano
 
-Universal holder PCB for all Bastard Keyboards
+nice!nano v2 holder PCB for Bastard Keyboards Charybdis
 
-![holder](pics/2.png)
+![holder](pics/3.jpg)
 
-
-## Optional features
-
-- handedness resistor: 5.1k on R6, use pin F1
-- I2C: install 4.7k resistors on R2 and R4
-- on/off switch: use MSK-12C01-07
-
+Features swapped high frequency pins from matrix to spi.
 
 ## Forks
 
