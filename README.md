@@ -3,6 +3,8 @@ Holder PCB for BastardKB TBK mini
 
 ## WARNING
 The PCBs have not been validated yet, they are not confirmed to be working!
+![Front of the PCB](pics/front.png)
+![Back of the PCB](pics/back.png)
 
 ## Features:
 - Matrix pinout moved to low frequency pins
